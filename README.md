@@ -1,2 +1,2 @@
 #### algorizms
-A Gallery of Algorithm question solve dusing different Patterns.
+A Gallery of Algorithm question solved using different Patterns.
